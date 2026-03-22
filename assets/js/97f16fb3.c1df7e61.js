@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkclasso=globalThis.webpackChunkclasso||[]).push([[8573],{4701(s){s.exports=JSON.parse('{"metadata":{"permalink":"/classo-docs/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
