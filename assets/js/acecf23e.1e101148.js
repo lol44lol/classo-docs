@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkclasso=globalThis.webpackChunkclasso||[]).push([[1903],{1912(s){s.exports=JSON.parse('{"blogBasePath":"/classo-docs/blog","blogTitle":"Blog","authorsListPath":"/classo-docs/blog/authors"}')}}]);
