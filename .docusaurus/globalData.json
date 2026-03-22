@@ -1,0 +1,63 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/classo-docs/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/classo-docs/docs",
+          "mainDocId": "databases/crud",
+          "docs": [
+            {
+              "id": "databases/crud",
+              "path": "/classo-docs/docs/databases/crud",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "dataclass/intro",
+              "path": "/classo-docs/docs/dataclass/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "dataclass/validates & transformers",
+              "path": "/classo-docs/docs/dataclass/validates & transformers",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "intro",
+              "path": "/classo-docs/docs/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "migration/intro",
+              "path": "/classo-docs/docs/migration/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "query/intro",
+              "path": "/classo-docs/docs/query/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "relations/intro",
+              "path": "/classo-docs/docs/relations/intro",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/classo-docs/docs/databases/crud",
+                "label": "databases/crud"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

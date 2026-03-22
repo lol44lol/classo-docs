@@ -1,0 +1,24 @@
+{
+  "id": "migration/intro",
+  "title": "Migration",
+  "description": "Migration keeps your database schema in sync with your DataClass definitions. When you add, remove, or change fields in a DataClass, running migrate updates the database to match.",
+  "source": "@site/docs/migration/intro.md",
+  "sourceDirName": "migration",
+  "slug": "/migration/intro",
+  "permalink": "/classo-docs/docs/migration/intro",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/migration/intro.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Getting Started with Classo",
+    "permalink": "/classo-docs/docs/intro"
+  },
+  "next": {
+    "title": "Query Builder",
+    "permalink": "/classo-docs/docs/query/intro"
+  }
+}

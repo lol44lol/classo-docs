@@ -1,0 +1,24 @@
+{
+  "id": "dataclass/validates & transformers",
+  "title": "Validators & Data Transformation",
+  "description": "This page covers three things — writing custom validators, transforming data before it gets saved with beforeValidation and afterValidation, and cross-field validation.",
+  "source": "@site/docs/dataclass/validates & transformers.md",
+  "sourceDirName": "dataclass",
+  "slug": "/dataclass/validates & transformers",
+  "permalink": "/classo-docs/docs/dataclass/validates & transformers",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/dataclass/validates & transformers.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "DataClass",
+    "permalink": "/classo-docs/docs/dataclass/intro"
+  },
+  "next": {
+    "title": "Getting Started with Classo",
+    "permalink": "/classo-docs/docs/intro"
+  }
+}

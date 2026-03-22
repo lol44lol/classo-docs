@@ -1,0 +1,24 @@
+{
+  "id": "dataclass/intro",
+  "title": "DataClass",
+  "description": "A DataClass lets you define your data model once and use it for both validation and database operations. You write one class — it handles input validation, database relations, and CRUD.",
+  "source": "@site/docs/dataclass/intro.md",
+  "sourceDirName": "dataclass",
+  "slug": "/dataclass/intro",
+  "permalink": "/classo-docs/docs/dataclass/intro",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/dataclass/intro.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Database CRUD",
+    "permalink": "/classo-docs/docs/databases/crud"
+  },
+  "next": {
+    "title": "Validators & Data Transformation",
+    "permalink": "/classo-docs/docs/dataclass/validates & transformers"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "databases/crud",
+  "title": "Database CRUD",
+  "description": "This page covers create, read, update, and delete operations across all supported databases. The API is nearly identical for SQLite, PostgreSQL, MySQL, and MongoDB — the main difference is the import path and connection setup.",
+  "source": "@site/docs/databases/crud.md",
+  "sourceDirName": "databases",
+  "slug": "/databases/crud",
+  "permalink": "/classo-docs/docs/databases/crud",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/databases/crud.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "DataClass",
+    "permalink": "/classo-docs/docs/dataclass/intro"
+  }
+}

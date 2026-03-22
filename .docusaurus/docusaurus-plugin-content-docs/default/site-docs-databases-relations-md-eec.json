@@ -1,0 +1,24 @@
+{
+  "id": "databases/relations",
+  "title": "Relations",
+  "description": "Classo supports three types of relations between DataClasses — one-to-many, one-to-one, and many-to-many. Relations are defined directly on your DataClass using helper functions imported from the relations module.",
+  "source": "@site/docs/databases/relations.md",
+  "sourceDirName": "databases",
+  "slug": "/databases/relations",
+  "permalink": "/docs/databases/relations",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/databases/relations.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Database CRUD",
+    "permalink": "/docs/databases/crud"
+  },
+  "next": {
+    "title": "DataClass",
+    "permalink": "/docs/dataclass/intro"
+  }
+}
